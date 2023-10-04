@@ -15,7 +15,3 @@ instalar a versão original primeiro e depois adicionar a versão em português.
 
 # Sistema de Salvar do SA:MP
 <img src="https://raw.githubusercontent.com/R0htg0r/SA-MP-Portugues/main/img/Salvar.png" width="30%">
-
-# Registro de Alterações
-* Todas as escritas foram traduzidas para o Português Brasileiro.
-* Foi alterado o tamanho da Janela de 839x600 para 950x700.
